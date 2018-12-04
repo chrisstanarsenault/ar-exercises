@@ -40,5 +40,6 @@ ActiveRecord::Schema.define do
     table.timestamps null: false
   end
 end
-
+binding.pry
 puts 'Setup DONE'
+
